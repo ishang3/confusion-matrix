@@ -1,0 +1,3 @@
+Precision (P): TP / (TP + FP)
+Recall (R): TP / (TP + FN)
+Confusion Matrix
